@@ -11,7 +11,7 @@
 		B749A3FE2A4C21D300A88DC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B749A3FD2A4C21D300A88DC9 /* ContentView.swift */; };
 		B749A4002A4C21D500A88DC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B749A3FF2A4C21D500A88DC9 /* Assets.xcassets */; };
 		B749A4032A4C21D500A88DC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B749A4022A4C21D500A88DC9 /* Preview Assets.xcassets */; };
-		B749A40A2A4C2EDC00A88DC9 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B749A4092A4C2EDC00A88DC9 /* ResultView.swift */; };
+		B749A40A2A4C2EDC00A88DC9 /* ButtonPaddingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B749A4092A4C2EDC00A88DC9 /* ButtonPaddingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		B749A3FD2A4C21D300A88DC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B749A3FF2A4C21D500A88DC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B749A4022A4C21D500A88DC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B749A4092A4C2EDC00A88DC9 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		B749A4092A4C2EDC00A88DC9 /* ButtonPaddingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPaddingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			children = (
 				B749A3FB2A4C21D300A88DC9 /* CalculatorSwiftUIApp.swift */,
 				B749A3FD2A4C21D300A88DC9 /* ContentView.swift */,
-				B749A4092A4C2EDC00A88DC9 /* ResultView.swift */,
+				B749A4092A4C2EDC00A88DC9 /* ButtonPaddingView.swift */,
 				B749A3FF2A4C21D500A88DC9 /* Assets.xcassets */,
 				B749A4012A4C21D500A88DC9 /* Preview Content */,
 			);
@@ -142,7 +142,7 @@
 			files = (
 				B749A3FE2A4C21D300A88DC9 /* ContentView.swift in Sources */,
 				B749A3FC2A4C21D300A88DC9 /* CalculatorSwiftUIApp.swift in Sources */,
-				B749A40A2A4C2EDC00A88DC9 /* ResultView.swift in Sources */,
+				B749A40A2A4C2EDC00A88DC9 /* ButtonPaddingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
